@@ -21,7 +21,7 @@ body {
   max-width: 600px;
   margin: 0 auto;
   min-height: 100%;
-  background: grey;
+  background: white;
 }
 
 header {
@@ -112,6 +112,18 @@ header .hide-completed {
 
 .toggle-private {
   margin-left: 5px;
+}
+
+
+span.main_t {
+	font-size: large;
+	color: red;
+}
+
+span.idCheck {
+	color: grey;
+	text-decoration: underline;
+
 }
 
 @media (max-width: 600px) {
