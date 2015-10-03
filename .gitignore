@@ -1,0 +1,4 @@
+# === gitignore FOR simple-todo 03/10/2015 ===
+
+#Ignore metadata file causing commit to remote git failure 
+*.meteor
