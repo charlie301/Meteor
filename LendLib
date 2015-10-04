@@ -1,0 +1,12 @@
+## Synopsis
+
+Simple lending library experimenting with the basics of Meteor including templates, a collection and reaction code
+
+## Code Example
+
+The end application will act as a logged borrowing application. 
+
+## Motivation
+
+Practical study of Meteor 
+
